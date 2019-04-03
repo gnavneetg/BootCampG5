@@ -6,5 +6,3 @@ for x in range(5):
 print("Hi, this is Patricia Castro😎")
 
 
-
-
