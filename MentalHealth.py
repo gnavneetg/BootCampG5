@@ -1,4 +1,13 @@
 print("Group 5 project name is Mental health data analyis in TECH")
+
+
+
+
+print( "Do people that are self employed have a higher risk for mental illness?")
+
+
+
+
 print("1. Do people that are self-employed have a higher risk for mental illness?")
 print("2. Do smaller or larger companies have a higher risk for mental illness in employees?")
 print("3. Does offering services/counseling help lower the risk for mental illness for your employees?")
