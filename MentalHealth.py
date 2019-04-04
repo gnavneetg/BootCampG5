@@ -7,3 +7,8 @@ print("5. What’s the relationship between people with a family history of ment
 print("6. What occupations within tech are at the highest risk for mental illness?")
 print("7. Does providing anonymity to employees increase the likelihood that they will seek out treatment?")
 print("8. Which jobs in tech have the highest risk for mental illness?")
+
+
+
+# mauricio added the last question
+last_question = 'If you have revealed a mental health issue to a client or business contact, do you believe this has impacted you negatively?'
