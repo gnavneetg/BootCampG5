@@ -7,4 +7,4 @@ print("5. What’s the relationship between people with a family history of ment
 print("6. What occupations within tech are at the highest risk for mental illness?")
 print("7. Does providing anonymity to employees increase the likelihood that they will seek out treatment?")
 print("8. Which jobs in tech have the highest risk for mental illness?")
-
+print("lets merge togther, resolve conflict peacefully")
