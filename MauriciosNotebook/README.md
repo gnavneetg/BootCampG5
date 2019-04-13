@@ -8,5 +8,5 @@
 
 
 <div>
-  <img src="./images/it_monkey.png" width="400" display="inline">
+  <img src="./Images/it_monkey.png" width="400" display="inline">
 <div>
